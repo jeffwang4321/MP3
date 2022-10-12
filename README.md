@@ -4,6 +4,6 @@
 
 - Hosted: https://jeffwang4321.github.io/MP3/
 
-- Personalized web app to convert YouTube URLs to .mps files using https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API
+- Personalized web app to convert YouTube URLs to .mp3 files using https://github.com/matthew-asuncion/Fast-YouTube-to-MP3-Converter-API
 
 - Avoid ads and spam from other sites but but still has 1 popup ad from the API 😔
